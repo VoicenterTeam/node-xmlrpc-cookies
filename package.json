@@ -19,6 +19,8 @@
 , "dependencies" : {
     "sax"   : "1.2.x"
   , "xmlbuilder" : "8.2.x"
+  , "lru-cache": "^11.0.2"
+  "set-cookie-parser": "^2.7.1"
   }
 , "devDependencies" : {
     "vows" : "0.7.x"
