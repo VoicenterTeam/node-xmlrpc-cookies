@@ -1,16 +1,16 @@
-{ "name" : "xmlrpc"
+{ "name" : "node-xmlrpc-cookies"
 , "description" : "A pure JavaScript XML-RPC client and server."
-, "keywords" : [ "xml-rpc", "xmlrpc", "xml", "rpc" ]
-, "version" : "1.3.2"
+, "keywords" : [ "xml-rpc", "xmlrpc", "xml", "rpc" ,"cookies"]
+, "version" : "1.3.3"
 , "preferGlobal" : false
 , "homepage" : "https://github.com/baalexander/node-xmlrpc"
-, "author" : "Brandon Alexander <baalexander@gmail.com> (https://github.com/baalexander)"
+, "author" : "Shlomi gutman"
 , "repository" : {
     "type" : "git"
-  , "url" : "git://github.com/baalexander/node-xmlrpc.git"
+  , "url" : "git://github.com/VoicenterTeam/node-xmlrpc-cookies.git"
   }
 , "bugs" : {
-    "url" : "https://github.com/baalexander/node-xmlrpc/issues"
+    "url" : "https://github.com/VoicenterTeam/node-xmlrpc-cookies/issues"
   }
 , "directories" : {
     "lib" : "./lib"
